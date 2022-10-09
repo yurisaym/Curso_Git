@@ -1,0 +1,616 @@
+    1  sudo sudo apt install apt-transport-https curl
+    2  sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+    3  echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+    4  sudo apt update
+    5  sudo apt install brave-browser
+    6  sudo mount -t cifs //192.168.10.105/SalyCompartida . -o username=Saly,password=123456,noperm
+    7  sudo mount -t cifs //192.168.10.105/Saly . -o username=Saly,password=123456,noperm
+    8  sudo mount -t cifs //192.168.10.105/Saly . -o username=SALY-PC,password=123456,noperm
+    9  sudo mount -t cifs //192.168.10.105/SalyCompartida . -o username=SALY-PC,password=123456,noperm
+   10  sudo mount -t cisf //192.168.10.105/saly . -o username=say password=123456,noperm
+   11  sudo mount -t cisf //192.168.10.105/saly . -o username=say,password=123456,noperm
+   12  sudo mount -t cisf //192.168.10.105/Saly . -o username=Saly,password=123456,noperm
+   13  sudo mount -t cisf //192.168.10.105/Saly . -o username=SALY-PC,password=123456,noperm
+   14  sudo mount -t cifs //192.168.10.105/Saly . -o username=SALY-PC,password=123456,noperm
+   15  sudo mount -t cifs //192.168.10.105/Saly . -o username=Saly,password=123456,noperm
+   16  sudo mount -t cifs //192.168.10.105/Saly . -o username=Saly,password=123456
+   17  sudo mount -t cifs //192.168.10.105/Saly . -o username=SALY-PC,password=123456
+   18  sudo mount -t cifs //192.168.10.105/Salycompartida . -o username=Saly,password=123456,noperm
+   19  sudo mount -t cifs //192.168.10.105/Salycompartida . -o username=SALY,password=123456,noperm
+   20  sudo mount -t cifs //192.168.10.105/Salycompartida . -o username=SALY-PC,password=123456,noperm
+   21  sudo mount -t cifs //192.168.10.105/Salycompartida . -o username=SALY-PC,password=123456
+   22  sudo mount -t cifs //192.168.10.105/SalyCompartida . -o username=SALY-PC,password=123456
+   23  sudo mount -t cifs //192.168.10.105/SalyCompartida . -o username=SALY-PC,password=123456,noperm
+   24  sudo mount -t cifs //192.168.10.105/SalyCompartida . -o username=Saly,password=123456,noperm
+   25  git
+   26  git init
+   27  sudo apt install git
+   28  git init
+   29  ll
+   30  ls
+   31  cd documentn/git-e-github/yurisay
+   32  cd 
+   33  cd Escritorio/receta/
+   34  ll
+   35  cd ../
+   36  ll
+   37  cd receta/
+   38  cd ../
+   39  cd receta/
+   40  cd escritorio/receta
+   41  ll
+   42  receta/
+   43  cd escritorio/receta
+   44  recetas
+   45  cd escritorio/receta
+   46  ll
+   47  receta
+   48  recetas
+   49  cd
+   50  recetas
+   51  receta
+   52  cd escritorio/recetas
+   53  cd escritorio/recetetas
+   54  ll
+   55  receta
+   56  ..
+   57  cd escritorio
+   58  escritorio/receta
+   59  CD RECETAS
+   60  receta
+   61  cd receta
+   62  CD RECETAS
+   63  ESCRITORIO/RECETA
+   64  CD RECETAS
+   65  RECETAS
+   66  RECETA
+   67  CLEAR
+   68  clear
+   69  cd..
+   70  receta
+   71  cd .. escritorio
+   72  clear
+   73  git romete
+   74  remote
+   75  clear
+   76  code .
+   77  ll
+   78  cd Escritorio/juego\ del\ ahorcado/
+   79  code .
+   80  clear
+   81  git init
+   82  git add README.md
+   83  git commit -m "first commit"
+   84  git branch -M main
+   85  git remote add origin https://github.com/saymarinez/juego-del-ahorcado.git
+   86  git push -u origin main
+   87  git config --global user.email "greensay13@gmail.com"
+   88  git config --global user.name "yurisay"
+   89  git add .
+   90  git commit -m "first commit"
+   91  git branch -M main
+   92  git remote add origin https://github.com/saymarinez/juego-del-ahorcado.git
+   93  git push -u origin main
+   94  ssh-keygen -t ed25519 -C "greensay13@gmail.com"
+   95  eval "$(ssh-agent -s)"
+   96  ssh-add ~/.ssh/id_ed25519
+   97  ls -al ~/.ssh
+   98  ssh-add ~/.ssh/id_ed25519
+   99  git push -u origin main
+  100  git remote add origin https://github.com/saymarinez/juego-del-ahorcado.git
+  101  git push -u origin main
+  102  cd Escritorio/juego\ del\ ahorcado/
+  103  git status
+  104  git push
+  105  git push --set-upstream origin main
+  106  git remote add origin git@github.com:saymarinez/juego-del-ahorcado.git
+  107  git push -u origin main
+  108  git remote remove origin
+  109  git remote add origin git@github.com:saymarinez/juego-del-ahorcado.git
+  110  git push -u origin main
+  111  cd portafolio/
+  112  cd visual studio code
+  113  cd visual/studio/code
+  114  cd portafolio/
+  115  code .
+  116  cd receta/
+  117  cd .
+  118  cd . code
+  119  . code
+  120  cd receta/
+  121  cd .code
+  122  cd . code
+  123  . code
+  124  cd creando\ pagina\ web\ 1/
+  125  cd .
+  126  cd . visu
+  127  clear
+  128  cd creando\ pagina\ web\ 1/
+  129  cd .
+  130  .
+  131  visua cleaer
+  132  clear
+  133  cd creando\ pagina\ web\ 1/
+  134  code .
+  135  cd pagina\ CatalinaBrownie/
+  136  cod .
+  137  cd .
+  138  cd cr
+  139  clear
+  140  l
+  141  ul
+  142  cd creando\ pagina\ web\ 1/
+  143  code .
+  144  cd pagina\ CatalinaBrownie/
+  145  code .
+  146  E-comerce/
+  147  . code
+  148  cd alura
+  149  cpde .
+  150  code .
+  151  cd creando\ pagina\ web\ 1/
+  152  code .
+  153  cd creando\ pagina\ web\ 1/
+  154  code .
+  155  cd pagina\ CatalinaBrownie/
+  156  code .
+  157  node -v
+  158  sudo apt install nodejs
+  159  cd creando\ pagina\ web\ 1/
+  160  code .
+  161  creando\ pagina\ web\ 1/
+  162  code .
+  163  cd creando\ pagina\ web\ 1/
+  164  code .
+  165  cd yurisay\ protafolio/
+  166  code .
+  167  cd portafolio 
+  168  code .
+  169  cd creando\ pagina\ web\ 1/
+  170  code .
+  171  cd creando\ pagina\ web\ 1/
+  172  code .
+  173  cd
+  174  carpetas
+  175  creando\ pagina\ web\ 1/
+  176  code .
+  177  creando\ pagina\ web\ 1/
+  178  code .
+  179  . code
+  180  cd creando\ pagina\ web\ 1/
+  181  code .
+  182  cod e.
+  183  code .
+  184  git init
+  185  git commit -m "first commit"
+  186  git branch -M main
+  187  git remote add origin git@github.com:saymarinez/Portafolio.git
+  188  git push -u origin main
+  189  git push
+  190  git push --set-upstream origin master
+  191  git push --set-upstream origin main
+  192  git add .
+  193  git commit -m "first commit"
+  194  git branch -M main
+  195  git remote add origin git@github.com:saymarinez/Portafolio.git
+  196  git push -u origin main
+  197  cd creando\ pagina\ web\ 1/
+  198  code .
+  199  cd flex
+  200  code .
+  201  clear
+  202  cd apeperia/
+  203  code .
+  204  clrear
+  205  clear
+  206  flex
+  207  cd flex/box
+  208  cdflexbox
+  209  cd flexbox
+  210  clear
+  211  cd flex
+  212  cd flexbox
+  213  flexbox/
+  214  . code
+  215  cd flexbox/
+  216  code .
+  217  cd
+  218  cd alura/store
+  219  .sd
+  220  cd
+  221  cd e-comerce
+  222  E-comerce
+  223  clear]
+  224  clear
+  225  e-comerce
+  226  cd e-comerce 2
+  227  cd
+  228  node
+  229  node version
+  230  node-version
+  231  Node-version
+  232  clear
+  233  node version
+  234  cd node-version
+  235  node-v
+  236  clear
+  237  node-v
+  238  clear
+  239  node-v
+  240  clear
+  241  node version
+  242  node-v
+  243  cd Node-V
+  244  clear
+  245  node version
+  246  Node-v
+  247  node-V
+  248  clear
+  249  Nodel version
+  250  clear
+  251  node-version
+  252  clear
+  253  Node-version
+  254  clear
+  255  Node-V
+  256  clear
+  257  cd node-V
+  258  clear
+  259  Node-version
+  260  clear
+  261  Node version
+  262  snap
+  263  node-v
+  264  download
+  265  instaçç
+  266  clear]
+  267  clar
+  268  clear
+  269  node
+  270  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+  271  nvm install v12
+  272  nv, install node
+  273  nvm install v12
+  274  sass
+  275  clear
+  276  sass sass/styles.scss
+  277  clear
+  278  sass sass.styles.scss main.css
+  279  clear
+  280  sass sass/styles.scss main.css
+  281  sass sass/styles.scss
+  282  sass sass/styles.css main.css
+  283  sass sass/styles.scss styles.css
+  284  clear
+  285  sass sass/styles.scss styles.css
+  286  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+  287  nvm instalv12
+  288  nvm install node
+  289  ll
+  290  cd Escritorio/
+  291  ll
+  292  cd E -comerce 2
+  293  cd 'E -comerce 2'/
+  294  ll
+  295  npm install -g sass
+  296  npm install -g npm@8.19.2
+  297  npm install -g sass
+  298  clear
+  299  sass/styles.scss styles.css
+  300  clear
+  301  --watch
+  302  clear
+  303  sass sass/styles.scss 
+  304  watch
+  305  --watch
+  306  -- watch
+  307  -- Watch
+  308  clear
+  309  --watch
+  310  sass sass/styles.scss styles.css --watch
+  311  ls
+  312  clear
+  313  ls
+  314  ls..
+  315  ls ..
+  316  git user. 'yurisay'
+  317  git config --global user.name 'yurisay'
+  318  git onfig --global user.email 'greensa13@gmail.com
+  319  '
+  320  git config --global user.email 'greensa13@gmail.com
+  321  '
+  322  git config user.name
+  323  cd Desktop/
+  324  cd desktop
+  325  mkdir curso_git/
+  326  git config user.name yurisay
+  327  ll
+  328  cd curso_git/
+  329  git config user.name
+  330  git init
+  331  gist status
+  332  git status
+  333  echo '#aprendendo usar git' > readme.md
+  334  git status
+  335  git add
+  336  'git add'
+  337  'git add .'
+  338  git readme.md
+  339  git add readme.md
+  340  git status
+  341  git commit -m 'commit inicial'
+  342  git status
+  343  echo '## aula 1' >> readme.md
+  344  echo 'yurisay' > participante.txt
+  345  git status
+  346  git add 
+  347  git status
+  348  git add .
+  349  git status
+  350  git restore --staged participantes.txt
+  351  git status
+  352  'git restore --staged participante.txt
+  353  '
+  354  git restore --staged participante.txt
+  355  git status
+  356  git add participante.txt 
+  357  git status
+  358  git restore --staged .
+  359  git status
+  360  git commit -am 'alteraçao no readme'
+  361  git status
+  362  git add participante.txt 
+  363  git status
+  364  history > aula_3.txt
+  365  git add
+  366  git add .
+  367  git log
+  368  clear
+  369  ls
+  370  clear
+  371  ls
+  372  ls -a
+  373  pwd
+  374  cd
+  375  ls
+  376  cd desktop
+  377  cd Desktop
+  378  cd destoktop /
+  379  pwd
+  380  cd ..
+  381  cd ~
+  382  cd Descargas/
+  383  cd Escritorio
+  384  cd
+  385  mkdir
+  386  cd
+  387  cd Descarga
+  388  clear
+  389  ls
+  390  ls  -a
+  391  .
+  392  ls ,
+  393  ls .
+  394  ls ..
+  395  cd
+  396  cd Escritorio/
+  397  mkdir
+  398  'mkdir'
+  399  'mkdir --help'
+  400  clear
+  401  ls
+  402  ls-a
+  403  ls -a
+  404  cd
+  405  mkdir
+  406  cd Escritorio
+  407  pwd
+  408  mkdir
+  409  cd
+  410  pwd
+  411  cd ..
+  412  cd Escritorio/
+  413  clear
+  414  ls
+  415  ls -a
+  416  ls .
+  417  ls ..
+  418  clear
+  419  ls
+  420  clear
+  421  ls
+  422  ls -a
+  423  ls ..
+  424  pwd
+  425  ls
+  426  cd Escritorio
+  427  cd ..
+  428  cd ~
+  429  cd E
+  430  cd Escritorio/
+  431  mkdir comandos
+  432  ls
+  433  cd Comandos/
+  434  cd comandos/
+  435  mkdir pasta nova
+  436  ls
+  437  mkdir 'pasta nova'
+  438  ls
+  439  mkdir -p new/old
+  440  ls
+  441  ls new
+  442  rm -r nova pasta
+  443  rm - r new
+  444  rm -r new
+  445  ls
+  446  mv 'pasta nova' pasta_nova
+  447  ls
+  448  mkadir new
+  449  mv new pasta_nova/
+  450  ls
+  451  mkdir new
+  452  ls
+  453  mv new pasta_nova/
+  454  ls
+  455  ls pasta_nova/
+  456  cd comandos/
+  457  cd ..
+  458  cd comandos
+  459  touch arquivo.txt
+  460  ls
+  461  cp arquivo.txt pasta_nova/
+  462  ls
+  463  ls pasta_nova/
+  464  echo 'mensagem'
+  465  echo 'mensagem' > comando.txt
+  466  cat comando.txt 
+  467  help cd
+  468  clear
+  469  history
+  470  history > historico.txt
+  471  cat historico.txt
+  472  clear
+  473  git status
+  474  git config --global user name.name 'yurisaym'
+  475  git config --global user.name 'yurisaym'
+  476  git config --global user.email 'yurisaynunes13@gmail.com'
+  477  git config user.name
+  478  cd Escritorio/
+  479  mkdir Curso_Git
+  480  git init
+  481  git status
+  482  echo '#Aprendendo usar o Git' > readme.md
+  483  git status
+  484  git config user.name
+  485  git init
+  486  git status
+  487  echo '#Aprendendo usar o Git' > readme.md
+  488  git status
+  489  git add readme.md
+  490  git status
+  491  git add readme.md
+  492  git status
+  493  git commit -m  'commit inicial'
+  494  git status
+  495  echo '##Aula 1' >> readme.md
+  496  git status
+  497  echo "yurisaym' > participante.txt
+  498  git status
+  499  git status
+  500  echo 'yurisaym' > participante.txt
+  501  git status
+  502  git status
+  503  echo 'yurisaym' > participante.txt
+  504  cd
+  505  clear
+  506  ls
+  507  cd
+  508  pwd
+  509  yurisay@yurisay-System-Product-Name:~/Escritorio$ 
+  510  echo 'yurisaym' > participante.txt
+  511  git status
+  512  git add .
+  513  clear
+  514  git add .
+  515  git status
+  516  git restore
+  517  git restore --staged .
+  518  git status
+  519  ll
+  520  del .git/
+  521  rmdir .git/
+  522  rmdir -p .git/
+  523  rm -r .git/
+  524  rm -rf .git/
+  525  git status
+  526  cd Curso_Git/
+  527  clear
+  528  git status
+  529  history
+  530  echo 'yurisaym' > participante.txt
+  531  git status
+  532  git add
+  533  cd
+  534  cd Escritorio/
+  535  git status
+  536  status
+  537  ls
+  538  curso_Git
+  539  cd Curso_Git/
+  540  status
+  541  git status
+  542  git init
+  543  git status
+  544  git add
+  545  echo '#Aprendendo usar o Git' > readme.md
+  546  git status
+  547  git add readme.md
+  548  git status
+  549  git commit -m 'commit inicial'
+  550  git status
+  551  ls
+  552  cd curso_git/
+  553  readme.md
+  554  status
+  555  git status
+  556  git add
+  557  git commit 'commit inicial'
+  558  clear
+  559  git init
+  560  git status
+  561  echo '#Aprendendo usar o Git' >readme.md
+  562  git status
+  563  git add readme.md
+  564  git status
+  565  git commit -m 'commit inicial'
+  566  git status
+  567  echo '##Aula 1' >> readme.md
+  568  echo 'yurisay martinez' > participante1.txt
+  569  git status
+  570  git add .
+  571  git status
+  572  git commit -am "alteração no readme'
+cd
+git commit am- 'alteração no readme.md'
+
+
+git commit -am "alteração no readme'
+cd
+git commit am- 'alteração no readme.md'
+
+
+echo '##Aula 1' >> readme.md
+git commit -am "alteração no readme'
+  573  cd
+  574  git commit am- 'alteração no readme.md'
+  575  git commit -am "alteração no readme'
+cd
+git commit am- 'alteração no readme.md'
+
+
+echo '##Aula 1' >> readme.md
+git status
+git commit -am "alteração no readme'
+cd
+git commit am- 'alteração no readme.md'
+
+
+git commit -am "alteração no readme'
+  576  cd
+  577  git commit am- 'alteração no readme.md'
+  578  echo '##Aula 1' >> readme.md
+  579  git commit -am "alteração no readme'
+
+
+clear]
+
+q
+  580  ll
+  581  cd Escritorio/
+  582  ll
+  583  cd..
+  584  cd ..
+  585  cd curso_git/
+  586  git status
+  587  git commit -m 'Adicionado participante1.txt'
+  588  history > aula_3.txt
